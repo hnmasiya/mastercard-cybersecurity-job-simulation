@@ -12,10 +12,10 @@ The original example was an obvious fake. The exercise required improving it by:
 
 ## Improved simulation
 **From:** Mastercard IT Support support@mastercard.com  
-**To:** Hazvinei Masiya hazvinei@mastercard.com  
+**To:** Employee <employee@example.com>  
 **Subject:** Password Reset Required — Immediate Attention Needed
 
-> Dear Hazvinei,
+> Dear Employee,
 >
 > As part of Mastercard’s ongoing security monitoring, we recently identified unusual sign-in activity associated with your employee account. As a precaution, we are requiring affected employees to verify their account and reset their password.
 >
