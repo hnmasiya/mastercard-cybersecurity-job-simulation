@@ -3,6 +3,14 @@
 **Mastercard Cybersecurity Job Simulation — Forage**  
 **Completed:** September 20, 2026
 
+### Recruiter Quick View
+
+- **Format:** Forage virtual job simulation
+- **Focus:** security awareness, phishing analysis, simulation design and training
+- **Scenario:** Security Awareness Team
+- **Skills:** phishing analysis, data analysis, security training, communication and problem solving
+- **Evidence boundary:** virtual experience program, not employment with Mastercard
+
 ## Overview
 
 This repository documents my completion of the Mastercard Cybersecurity Job Simulation on Forage.
@@ -11,29 +19,25 @@ The simulation placed me in a Security Awareness Team scenario focused on phishi
 
 > **Important:** This was a Forage job simulation / virtual experience program. It was not employment with Mastercard.
 
-## Tasks completed
+## Tasks Completed
 
-### Task 1 — Design a phishing email simulation
+### Task 1 — Design a Phishing Email Simulation
+
 - Reviewed characteristics of an obvious phishing email.
 - Improved a simulated phishing message by adding relevant context, professional spelling and grammar, legitimacy cues, and a masked hyperlink.
 - Considered common phishing tactics used to influence employee behavior.
 
-See task-1/phishing-simulation.md.
+See [Task 1](task-1/phishing-simulation.md).
 
-### Task 2 — Interpret phishing simulation results
-Analyzed the provided campaign results and identified the two teams with the highest phishing success rates:
+### Task 2 — Interpret Phishing Simulation Results
 
-| Team | Email open rate | Click-through rate | Phishing success rate |
-|---|---:|---:|---:|
-| HR | 100% | 85% | 75% |
-| Marketing | 65% | 40% | 38% |
-| Overall average | 66% | 28% | 18% |
+Analyzed the supplied campaign results and identified the teams with the highest phishing success rates.
 
-Developed a concise security-awareness training presentation for these teams.
+Developed a concise security-awareness training presentation based on the supplied results.
 
-See task-2/phishing-awareness-training.md.
+See [Task 2](task-2/phishing-awareness-training.md).
 
-## Skills demonstrated
+## Skills Demonstrated
 
 - Cybersecurity
 - Security Awareness
@@ -52,10 +56,12 @@ See task-2/phishing-awareness-training.md.
 - Security-awareness training recommendations
 - Phishing-awareness presentation
 
-## Portfolio relevance
+## Portfolio Relevance
 
-This project demonstrates practical cybersecurity and security-awareness experience that complements my CompTIA Security+ and Google Cybersecurity credentials and broader IT support and infrastructure background.
+This project complements my broader SOC, Windows/Active Directory, detection engineering, cloud security and security automation work by demonstrating the human-risk and security-awareness side of cybersecurity.
 
 ## Attribution
 
 Completed through the Mastercard Cybersecurity Job Simulation on Forage. Mastercard and Forage are referenced only to accurately identify the virtual experience program.
+
+[Main cybersecurity portfolio](https://github.com/hnmasiya/cybersecurity-portfolio) · [GitHub profile](https://github.com/hnmasiya)
